@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net9.0</TargetFramework></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../BusinessIQ.Domain/BusinessIQ.Domain.csproj" />
+    <ProjectReference Include="../BusinessIQ.Contracts/BusinessIQ.Contracts.csproj" />
+    <ProjectReference Include="../../../Framework/src/Framework.Application/Framework.Application.csproj" />
+  </ItemGroup>
+</Project>
+

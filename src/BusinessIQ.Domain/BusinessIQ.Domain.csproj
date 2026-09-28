@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net9.0</TargetFramework></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../../../Framework/src/Framework.Domain/Framework.Domain.csproj" /></ItemGroup>
+</Project>
